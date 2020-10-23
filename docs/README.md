@@ -8,3 +8,6 @@ location: Taipei
 > This is official blog theme.
 
 My content.
+
+
+<Vssue :title="$title" />
