@@ -6,16 +6,15 @@
   "author": "zoe",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/theme-blog": "^2.3.2",
-    "vuepress": "^1.7.1"
+    "moment": "^2.29.1",
+    "vuepress": "^1.7.1",
+    "vuepress-theme-vdoing": "^1.5.1"
   },
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "dev": "vuepress dev docs --open --host \"localhost\"",
+    "build": "vuepress build docs"
   },
   "dependencies": {
-    "@vssue/api-github-v3": "^1.4.4",
-    "@vssue/vuepress-plugin-vssue": "^1.4.6",
-    "vuepress-plugin-sitemap": "^2.3.1"
+    "vuepress-plugin-comment": "^0.7.3"
   }
 }
