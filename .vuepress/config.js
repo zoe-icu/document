@@ -30,7 +30,7 @@ module.exports = {
       // set `platform` rather than `api`
       platform: 'github',
       // all other options of Vssue are allowed
-      owner: 'zoe',
+      owner: 'zoe-icu',
       repo: 'document',
       clientId: '60ea738d0460599e806e',
       clientSecret: '8b81ef57637b95b32d15fe27c31d5574347ce54f',
