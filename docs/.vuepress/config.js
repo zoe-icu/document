@@ -11,7 +11,7 @@ module.exports = {
   // ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no'}], // 移动端阻止页面缩放
   ],
   markdown: {
-    lineNumbers: true // 代码行号
+    lineNumbers: false // 代码行号
   },
   theme: 'vdoing',
   themeConfig: {

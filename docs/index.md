@@ -6,14 +6,14 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 features: # 可选的
   - title: 考研笔记
     details: 考研笔记
-    link: /web/ # 可选
+    link: /pages/ # 可选
     imgUrl: /img/05.png # 可选
-  - title: 学术
-    details: 论文相关
-    link: /ui/
+  - title: 理论
+    details: 理论相关
+    link: /pages/
     imgUrl: /img/08.png
-  - title: 技术
+  - title: 实践
     details: 技术文档、教程、技巧、总结等文章
-    link: /technology/
+    link: /pages/
     imgUrl: /img/04.png
 ---
